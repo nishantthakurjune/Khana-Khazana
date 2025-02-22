@@ -21,10 +21,10 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ajor-Saha/Food-Delivery-App
+   git clone https://github.com/nishantthakurjune/Khana-Khazana.git
 
 ```bash
-cd Food-Delivery-App
+cd Khana Khazana
 ```
 
 ```
